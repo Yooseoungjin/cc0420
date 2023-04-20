@@ -154,6 +154,8 @@
     <!-- Content Wrapper -->
     <div id="content-wrapper" class="d-flex flex-column">
 
+
+
     <%--Center Menu start--%>
     <c:choose>
         <c:when test="${center == null}">
@@ -164,6 +166,8 @@
         </c:otherwise>
     </c:choose>
     <%--Center Menu end--%>
+
+
 
     </div>
     <!-- End of Content Wrapper -->
